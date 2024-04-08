@@ -44,7 +44,7 @@ Tools
 
 - Sample output:
 
-  ![1-Producer & 2- Consumer Output](Screenshot 2024-04-05 232023.png)
+  ![1-Producer & 2- Consumer Output](Sample_Output.png)
 
 > Anyone South
 
