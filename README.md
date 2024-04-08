@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for
 
-# KAfka - Tutorial repo
+# KAFKA - Tutorial repository
 
 ## Prerequisite
 
