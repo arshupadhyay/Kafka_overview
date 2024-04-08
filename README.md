@@ -42,7 +42,9 @@ Tools
    ```bash
     node consumer.js <GROUP_NAME>
 
-- Create Producer
+- Sample output:
+
+  ![1-Producer & 2- Consumer Output](Screenshot 2024-04-05 232023.png)
 
 > Anyone South
 
